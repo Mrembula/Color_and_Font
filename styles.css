@@ -1,0 +1,46 @@
+/** First container **/
+h1 {
+    font-family: sans-serif;
+    color: royalblue;
+    padding: 10px 0;
+    margin: 0;
+}
+
+/** second container **/
+div.container_two, div.container_three, div.container_four {
+    padding: 10px;
+}
+
+.container_two p {
+    color: white;
+}
+
+p {
+    font-family: sans-serif;
+    padding: 15px 0 0 0;
+    margin: 0;
+    font-weight: bold;
+}
+
+div.first_text {
+    color: white;
+    font-size: 30px;
+    margin: 0;
+    padding: 0;
+    font-weight: bolder;
+}
+
+.block {
+    padding-bottom: 40px;
+    margin-bottom: 40px;
+}
+
+/** third container **/
+.container_three p {
+    color: black;
+}
+
+/** fourth container **/
+.container_four p{
+    color: black;
+}
